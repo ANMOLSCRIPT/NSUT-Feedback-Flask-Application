@@ -34,3 +34,26 @@ RUN THE APPLICATION:
 2. open your web browser and visit the follow link
     example--  http://127.0.0.1:5000/
 
+# Contributions:
+
+We welcome contributions from the open-source community to help improve this Flask Application. To contribute, please follow these guidelines:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bug fix:
+
+`git checkout -b feature/your-feature-name`
+
+3. Make your changes and ensure that the codebase remains clean and well-documented.
+
+4. Write appropriate unit tests for your changes.
+
+5. Commit your changes:
+
+`git commit -am 'Add some feature'`
+
+6. Push to the branch:
+
+`git push origin feature/your-feature-name`
+
+7. Create a new pull request, describing your changes and their purpose.
